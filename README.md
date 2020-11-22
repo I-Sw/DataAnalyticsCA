@@ -1,7 +1,7 @@
 # DataAnalyticsCA
 Repo for 3nd year Data Analytics class assignment, written in Python using Google Colab
 
-This assignment focuses on analysing and representing statistics from the International Union for Conservation of Nature (IUCN) Red List, which details how threatened different species of animals are, from Least Concern (LC) all the way to species which are Critically Endangered (CR) or even Extinct (EX)
+This project focuses on analysing and representing statistics from the IUCN Red List (International Union for Conservation of Nature), which details how threatened different species of animals are, from Least Concern all the way to species which are Critically Endangered or even Extinct.
 
 I intend to analyse the data provided by IUCN as well as data from the World Health Organisation and worldbank.org which detail levels of pollution and forest cover by country, in order to try to discover where animals are most threatened and what parts of the world require the most urgent conservation.
 
